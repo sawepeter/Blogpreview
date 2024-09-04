@@ -25,7 +25,7 @@ body {
 .card {
     background-color: white;
     border-radius: 20px;
-    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.5),/* Darker shadow on right and bottom */
+    box-shadow: 18px 18px 20px rgba(0, 0, 0, 2.6),/* Darker shadow on right and bottom */
                 0px 0px 4px rgba(0, 0, 0, 0.1); /* Lighter shadow on top and left */
     width: 370px;
 }
